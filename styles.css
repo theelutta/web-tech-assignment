@@ -1,0 +1,60 @@
+body {
+    font-family: "Georgia", serif;
+    background image:   background-image:url(https://www.pexels.com/photo/red-outdoor-lounge-chairs-near-swimming-pool-2363808/); background-size: cover;background-repeat: no-repeat;;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #000080;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+#home, #menu, #about {
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-style: italic;
+    color: #000080;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+table {
+    width: 60%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    border: 1px solid #000080;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #add8e6;
+    color: #000080;
+}
+
+td {
+    background-color: #ffffff;
+    color: #000080;
+}
